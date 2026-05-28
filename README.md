@@ -42,7 +42,8 @@ Projeto desenvolvido em VBA para automatizar a compilação das escalas de colab
 
 <img width="321" height="30" alt="image" src="https://github.com/user-attachments/assets/86fb9d01-8c06-4ad1-8fa5-50d252431d05" />
 
-
+## Informações Importantes
+O código foi desenvolvido para processar arquivos que seguem um padrão específico de estrutura e organização dos dados. Arquivos com layouts diferentes podem não ser reconhecidos corretamente pela automação. No entanto, o projeto pode ser facilmente adaptado para trabalhar com diferentes planilhas, colunas, linhas ou estruturas de dados através da edição do código VBA.
 
 ## Autora
-Juliana Prates
+### Juliana Prates
